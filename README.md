@@ -1,1 +1,1 @@
-# example docker implementation for nodejs application
+# Example docker implementation for nodejs application
